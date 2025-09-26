@@ -2,7 +2,7 @@
 
 ## Instructions for Players
 
-**[Instructions](./instructions.md)
+**[Instructions](./instructions.md)**
 
 ## Characters
 
