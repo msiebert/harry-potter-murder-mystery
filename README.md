@@ -1,5 +1,9 @@
 # Harry Potter Murder Mystery: Ministry Gala
 
+## Instructions for Players
+
+**[Instructions](./instructions.md)
+
 ## Characters
 
 ### Essential Characters
