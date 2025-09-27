@@ -9,7 +9,7 @@ title: Home
 
 ## Quick Navigation
 
-- **[Game Instructions](instructions.md)** - How to play the murder mystery
+- **[Game Instructions](instructions)** - How to play the murder mystery
 - **[Character List](#characters)** - All available characters for the game
 
 ## Story Overview
@@ -45,53 +45,53 @@ Initially appearing to be poisoned by a doctored glass of Firewhisky, magical ex
 
 These characters have crucial information, clues, or direct involvement in the murder plot:
 
-**[Augustus Thornwick](characters/augustus-thornwick.md)** - *Deputy Minister (The Victim)*
+**[Augustus Thornwick](characters/augustus-thornwick)** - *Deputy Minister (The Victim)*
 A crusading reformer investigating corruption in magical creature welfare funds who has made dangerous enemies.
 
-**[Cornelius Pemberton](characters/cornelius-pemberton.md)** - *Senior Ministry Treasurer (The Murderer)*
+**[Cornelius Pemberton](characters/cornelius-pemberton)** - *Senior Ministry Treasurer (The Murderer)*
 Augustus's former Hogwarts roommate with massive gambling debts and access to embezzled funds.
 
-**[Lady Cordelia Blackthorne](characters/lady-cordelia-blackthorne.md)** - *Wealthy Socialite (Criminal Accomplice)*
+**[Lady Cordelia Blackthorne](characters/lady-cordelia-blackthorne)** - *Wealthy Socialite (Criminal Accomplice)*
 Secret operator of illegal magical creature trades and Cornelius's criminal partner.
 
-**[Nigel Crimplebottom](characters/nigel-crimplebottom.md)** - *Ministry Accountant (Embezzlement Accomplice)*
+**[Nigel Crimplebottom](characters/nigel-crimplebottom)** - *Ministry Accountant (Embezzlement Accomplice)*
 Nervous accountant who has been cooking the books for Cornelius's gambling addiction.
 
-**[Vivienne Roseheart](characters/vivienne-roseheart.md)** - *High-End Fashion Designer*
+**[Vivienne Roseheart](characters/vivienne-roseheart)** - *High-End Fashion Designer*
 Business partner of Barnabas who can reveal crucial information about gambling at Griffin's Gambit.
 
-**[Tobias Grimwald](characters/tobias-grimwald.md)** - *Magical Creature Reserve Owner*
+**[Tobias Grimwald](characters/tobias-grimwald)** - *Magical Creature Reserve Owner*
 One of four people who knows the Arresto Incantum spell and witnessed Cornelius's gambling losses.
 
-**[Seraphina Moonwhisper](characters/seraphina-moonwhisper.md)** - *Exclusive Catering Company Owner*
+**[Seraphina Moonwhisper](characters/seraphina-moonwhisper)** - *Exclusive Catering Company Owner*
 Lady Cordelia's exclusive caterer who unknowingly enabled the murder through her color-changing charms.
 
-**[Professor Aldric Spellsworth](characters/professor-aldric-spellsworth.md)** - *Retired Hogwarts Headmaster*
+**[Professor Aldric Spellsworth](characters/professor-aldric-spellsworth)** - *Retired Hogwarts Headmaster*
 The inventor of Arresto Incantum who taught the spell to only five trusted students.
 
-**[Captain Magnus Thornfield](characters/captain-magnus-thornfield.md)** - *War Hero & Security Consultant*
+**[Captain Magnus Thornfield](characters/captain-magnus-thornfield)** - *War Hero & Security Consultant*
 Tonight's security provider investigating recent break-ins related to the corruption scheme.
 
-**[Minister Octavius Goldenheart](characters/minister-octavius-goldenheart.md)** - *Current Minister of Magic*
+**[Minister Octavius Goldenheart](characters/minister-octavius-goldenheart)** - *Current Minister of Magic*
 Augustus's mentor facing re-election pressures and concerned about Ministry stability.
 
-**[Barnabas Goldstein](characters/barnabas-goldstein.md)** - *Diagon Alley Supply Chain Owner*
+**[Barnabas Goldstein](characters/barnabas-goldstein)** - *Diagon Alley Supply Chain Owner*
 Vivienne's business partner who witnessed Cornelius's gambling losses firsthand.
 
-**[Madam Penelope Quillfeather](characters/penelope-quillfeather.md)** - *Head of Magical Accidents Department*
+**[Madam Penelope Quillfeather](characters/penelope-quillfeather)** - *Head of Magical Accidents Department*
 Augustus's mentor investigating delayed-action prank spells around London.
 
-**[Lord Reginald Ashworth](characters/reginald-ashworth.md)** - *Pure-Blood Patriarch*
+**[Lord Reginald Ashworth](characters/reginald-ashworth)** - *Pure-Blood Patriarch*
 Major Ministry donor whose family donations are under Augustus's investigation.
 
-**[Auror Commander Lysander Stone](characters/lysander-stone.md)** - *Head of the Auror Office*
+**[Auror Commander Lysander Stone](characters/lysander-stone)** - *Head of the Auror Office*
 Investigating break-ins that may connect to Augustus's corruption case.
 
 ### Additional Characters
 
-**[Prudence Wickerham](characters/prudence-wickerham.md)** - *Senior Undersecretary*
-**[Lady Evangeline Ashworth](characters/lady-evangeline-ashworth.md)** - *Charitable Committee Chair*
-**[Sebastian Ravencrest](characters/sebastian-ravencrest.md)** - *Wealthy Businessman*
-**[Ophelia Ravencrest](characters/ophelia-ravencrest.md)** - *Distinguished Educator*
-**[Madam Isadora Nightingale](characters/isadora-nightingale.md)** - *Renowned St. Mungo's Healer*
-**[Cordelia Silvermoon](characters/cordelia-silvermoon.md)** - *Magical Portrait Artist*
+**[Prudence Wickerham](characters/prudence-wickerham)** - *Senior Undersecretary*
+**[Lady Evangeline Ashworth](characters/lady-evangeline-ashworth)** - *Charitable Committee Chair*
+**[Sebastian Ravencrest](characters/sebastian-ravencrest)** - *Wealthy Businessman*
+**[Ophelia Ravencrest](characters/ophelia-ravencrest)** - *Distinguished Educator*
+**[Madam Isadora Nightingale](characters/isadora-nightingale)** - *Renowned St. Mungo's Healer*
+**[Cordelia Silvermoon](characters/cordelia-silvermoon)** - *Magical Portrait Artist*
