@@ -16,4 +16,4 @@ Recently, Augustus Thornwick's investigations have subjected several of Sebastia
 Engage with Ministry officials, particularly Minister Goldenheart and other senior staff, to understand how the current political climate might affect exclusive businesses like his own. Sebastian needs to gauge whether the Ministry's recent push for "transparency" will result in more stringent regulations on private clubs and luxury establishments.
 
 **2. Explore New Investment Partnerships**
-Connect with other successful business owners at the gala to discuss potential joint ventures or investment opportunities. Sebastian is particularly interested in connecting with Lord Reginald Ashworth, Barnabas Goldstein, Madam Vivienne Roseheart, and Tobias Grimwald to explore mutually beneficial business relationships.
+Connect with other successful business owners at the gala to discuss potential joint ventures or investment opportunities. Sebastian is particularly interested in connecting with Lady Alice Ashworth, Minerva Goldstein, Madam Vivienne Roseheart, and Lavender Grimwald to explore mutually beneficial business relationships.

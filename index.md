@@ -54,13 +54,10 @@ Augustus's former Hogwarts roommate with massive gambling debts and access to em
 **[Lady Cordelia Blackthorne](characters/lady-cordelia-blackthorne)** - *Wealthy Socialite (Criminal Accomplice)*
 Secret operator of illegal magical creature trades and Cornelius's criminal partner.
 
-**[Nigel Crimplebottom](characters/nigel-crimplebottom)** - *Ministry Accountant (Embezzlement Accomplice)*
-Nervous accountant who has been cooking the books for Cornelius's gambling addiction.
-
 **[Vivienne Roseheart](characters/vivienne-roseheart)** - *High-End Fashion Designer*
-Business partner of Barnabas who can reveal crucial information about gambling at Griffin's Gambit.
+Business partner of Minerva who can reveal crucial information about gambling at Griffin's Gambit.
 
-**[Tobias Grimwald](characters/tobias-grimwald)** - *Magical Creature Reserve Owner*
+**[Lavender Grimwald](characters/lavender-grimwald)** - *Magical Creature Reserve Owner*
 One of four people who knows the Arresto Incantum spell and witnessed Cornelius's gambling losses.
 
 **[Seraphina Moonwhisper](characters/seraphina-moonwhisper)** - *Exclusive Catering Company Owner*
@@ -75,19 +72,22 @@ Tonight's security provider investigating recent break-ins related to the corrup
 **[Minister Octavius Goldenheart](characters/minister-octavius-goldenheart)** - *Current Minister of Magic*
 Augustus's mentor facing re-election pressures and concerned about Ministry stability.
 
-**[Barnabas Goldstein](characters/barnabas-goldstein)** - *Diagon Alley Supply Chain Owner*
+**[Minerva Goldstein](characters/minerva-goldstein)** - *Diagon Alley Supply Chain Owner*
 Vivienne's business partner who witnessed Cornelius's gambling losses firsthand.
 
 **[Madam Penelope Quillfeather](characters/penelope-quillfeather)** - *Head of Magical Accidents Department*
 Augustus's mentor investigating delayed-action prank spells around London.
 
-**[Lord Reginald Ashworth](characters/reginald-ashworth)** - *Pure-Blood Patriarch*
+**[Lady Alice Ashworth](characters/alice-ashworth)** - *Pure-Blood Matriarch*
 Major Ministry donor whose family donations are under Augustus's investigation.
 
 **[Auror Commander Lysander Stone](characters/lysander-stone)** - *Head of the Auror Office*
 Investigating break-ins that may connect to Augustus's corruption case.
 
-### Additional Characters
+### Additional Characters (Optional)
+
+**[Nigel Crimplebottom](characters/nigel-crimplebottom)** - *Ministry Accountant (Embezzlement Accomplice)*
+Nervous accountant who has been cooking the books for Cornelius's gambling addiction.
 
 **[Prudence Wickerham](characters/prudence-wickerham)** - *Senior Undersecretary*
 **[Lady Evangeline Ashworth](characters/lady-evangeline-ashworth)** - *Charitable Committee Chair*

@@ -76,9 +76,9 @@ Secret operator of illegal magical creature trades and Cornelius's criminal part
 Nervous accountant who has been cooking the books for Cornelius's gambling addiction.
 
 **[Vivienne Roseheart](./characters/vivienne-roseheart.md)** - *High-End Fashion Designer*
-Business partner of Barnabas who can reveal crucial information about gambling at Griffin's Gambit.
+Business partner of Minerva who can reveal crucial information about gambling at Griffin's Gambit.
 
-**[Tobias Grimwald](./characters/tobias-grimwald.md)** - *Magical Creature Reserve Owner*
+**[Lavender Grimwald](./characters/lavender-grimwald.md)** - *Magical Creature Reserve Owner*
 One of four people who knows the Arresto Incantum spell and witnessed Cornelius's gambling losses.
 
 **[Seraphina Moonwhisper](./characters/seraphina-moonwhisper.md)** - *Exclusive Catering Company Owner*
@@ -93,14 +93,14 @@ Tonight's security provider investigating recent break-ins related to the corrup
 **[Minister Octavius Goldenheart](./characters/minister-octavius-goldenheart.md)** - *Current Minister of Magic*
 Augustus's mentor facing re-election pressures and concerned about Ministry stability.
 
-**[Barnabas Goldstein](./characters/barnabas-goldstein.md)** - *Diagon Alley Supply Chain Owner*
+**[Minerva Goldstein](./characters/minerva-goldstein.md)** - *Diagon Alley Supply Chain Owner*
 Vivienne's business partner who witnessed Cornelius's gambling losses firsthand.
 
 **[Madam Penelope Quillfeather](./characters/penelope-quillfeather.md)** - *Head of Magical Accidents Department*
 Augustus's mentor investigating delayed-action prank spells around London.
 
 
-**[Lord Reginald Ashworth](./characters/reginald-ashworth.md)** - *Pure-Blood Patriarch*
+**[Lady Alice Ashworth](./characters/alice-ashworth.md)** - *Pure-Blood Matriarch*
 Major Ministry donor whose family donations are under Augustus's investigation.
 
 **[Auror Commander Lysander Stone](./characters/lysander-stone.md)** - *Head of the Auror Office*
@@ -114,7 +114,7 @@ These characters provide alibis, red herrings, and social complexity but are not
 Ministry veteran who resented Augustus's rapid promotion over her decades of service.
 
 **[Lady Evangeline Ashworth](./characters/lady-evangeline-ashworth.md)** - *Charitable Committee Chair*
-Reginald's sister who oversees magical creature welfare funding.
+Alice's sister who oversees magical creature welfare funding.
 
 **[Sebastian Ravencrest](./characters/sebastian-ravencrest.md)** - *Wealthy Businessman*
 Ophelia's protective brother who owns exclusive establishments under Augustus's scrutiny.
@@ -148,6 +148,6 @@ This was a sophisticated two-part murder designed to create the perfect alibi:
 ### Key Evidence Trail
 - Augustus's notes show he trusted "C.P." (Cornelius Pemberton) to help with the investigation
 - Gambling evidence points to financial desperation
-- Only five people knew the Arresto Incantum spell: Augustus, Tobias, Cornelius, Cordelia, and Sebastian
+- Only five people knew the Arresto Incantum spell: Augustus, Lavender, Cornelius, Cordelia, and Sebastian
 - The embezzlement note reveals someone stealing from creature welfare funds to cover gambling losses
 - The audit announcement created urgent pressure to act before discovery

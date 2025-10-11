@@ -4,7 +4,7 @@
 
 ## Background
 
-Lady Evangeline Ashworth has dedicated two decades to magical creature welfare as Chair of the Magical Creature Welfare Committee. Unlike her brother Reginald, who influences society through wealth and political connections, Evangeline takes a hands-on approach to philanthropy, regularly visiting the sanctuaries and reserves her committee supports.
+Lady Evangeline Ashworth has dedicated two decades to magical creature welfare as Chair of the Magical Creature Welfare Committee. Unlike her sister Alice, who influences society through wealth and political connections, Evangeline takes a hands-on approach to philanthropy, regularly visiting the sanctuaries and reserves her committee supports.
 
 Her committee oversees the distribution of charitable funds throughout magical Britain, with particular pride in their efficiency—less than five percent of donations go to administrative costs. The Ashworth family trust provides nearly twenty percent of the committee's annual budget, making their contributions vital to the welfare of countless magical creatures.
 

@@ -15,5 +15,5 @@ Currently, her department is investigating a troubling trend of delayed-action p
 **1. Consult Professor Spellsworth about Delayed-Action Spells**
 Seek the retired Headmaster's expertise regarding the recent property damage caused by explosion spells that trigger exactly 15 minutes after casting. His vast knowledge of advanced magical theory might help identify who could be teaching such dangerous techniques to pranksters.
 
-**2. Network with Madam Isadora Nightingale for St. Mungo's Partnership**
-Connect with the renowned Healer about potential collaboration opportunities between the Department for Magical Accidents and St. Mungo's new Spell Damage ward. Penelope believes her department's prevention protocols could complement the hospital's treatment innovations.
+**2. Network with Captain Magnus Thornfield about Information Sharing**
+Connect with the security consultant about working together to share information about accidents that may actually be on purpose. With Magnus's expertise in analyzing security incidents and Penelope's knowledge of magical accidents, they could collaborate to identify patterns that might indicate deliberate acts disguised as accidents.

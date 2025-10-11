@@ -16,4 +16,4 @@ However, Augustus Thornwick's investigation has made Nigel increasingly paranoid
 Subtly probe other Ministry officials to learn exactly what Augustus Thornwick found out about the embezzlement scheme. Determine if his investigation notes contain enough evidence to implicate Nigel specifically.
 
 **2. Prepare an Exit Strategy**
-Gather information about who might make a good scapegoat if things go badly. Perhaps someone like Tobias Grimwald, whose magical creature reserve permits were under Augustus's review, could be framed as having embezzled funds to keep his failing business afloat.
+Gather information about who might make a good scapegoat if things go badly. Perhaps someone like Lavender Grimwald, whose magical creature reserve permits were under Augustus's review, could be framed as having embezzled funds to keep her failing business afloat.

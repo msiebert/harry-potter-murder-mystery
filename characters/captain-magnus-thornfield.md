@@ -12,8 +12,6 @@ After retiring from active military duty three years ago, Magnus founded Thornfi
 
 Recently, Magnus has been consulting on a troubling series of break-ins targeting Ministry-connected locations. His expertise in security systems has proven invaluable in analyzing how these sophisticated thefts were executed with such precision that most victims didn't realize anything was missing. Most tellingly, Magnus's investigation revealed no signs of forced entry or magical tampering with locks and wards - whoever executed these thefts must have had legitimate keys or access credentials. The methodical nature of these crimes - focusing specifically on financial records and correspondence related to magical creature welfare funding - suggests the work of someone with both official access and intimate knowledge of Ministry operations.
 
-His professional relationship with Madam Isadora Nightingale developed through his security work - several of his protective assignments have resulted in clients needing St. Mungo's services, and their collaboration has led to better understanding of how to prevent magical injuries in high-risk situations. Their shared commitment to protecting people has created a mutual professional respect.
-
 ## Gala Objectives
 
 **1. Conduct Final Security Assessment**
