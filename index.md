@@ -48,6 +48,7 @@ Evidence and documents available during the investigation:
 - **[Investigation Note](clues/augustus_investigation_note.pdf)** - Note found on Augustus's body
 - **[Embezzlement Note](clues/cornelius_embezzlement_note.pdf)** - Note about embezzled Ministry funds
 - **[Coroner's Report](clues/ministry_coroner_report.pdf)** - Official report revealing the cause of death
+- **[Widow's Bane Poison Reference](clues/widows_bane_poison_reference.pdf)** - Historical reference on rare magical poisons
 
 ## Characters
 
