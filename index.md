@@ -11,6 +11,7 @@ title: Home
 
 - **[Game Instructions](instructions)** - How to play the murder mystery
 - **[Character List](#characters)** - All available characters for the game
+- **[Clues](#clues)** - Evidence and documents for investigation
 
 ## Story Overview
 
@@ -38,6 +39,12 @@ Initially appearing to be poisoned by a doctored glass of Firewhisky, magical ex
 - Guests work to piece together the full solution
 - **Final Accusations** - Each guest makes their accusation, and majority decides who is accused
 - If the murderer is discovered, guests win! If the murderer is not guessed, the murderer and accomplices win!
+
+## Clues
+
+Evidence and documents available during the investigation:
+
+- **[Daily Prophet Newspaper](clues/daily_prophet_newspaper.pdf)** - Report on surprise audits at the Ministry
 
 ## Characters
 
