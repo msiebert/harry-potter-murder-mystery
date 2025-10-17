@@ -47,6 +47,7 @@ Evidence and documents available during the investigation:
 - **[Daily Prophet Newspaper](clues/daily_prophet_newspaper.pdf)** - Report on surprise audits at the Ministry
 - **[Investigation Note](clues/augustus_investigation_note.pdf)** - Note found on Augustus's body
 - **[Embezzlement Note](clues/cornelius_embezzlement_note.pdf)** - Note about embezzled Ministry funds
+- **[Coroner's Report](clues/ministry_coroner_report.pdf)** - Official report revealing the cause of death
 
 ## Characters
 
