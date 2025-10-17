@@ -45,6 +45,7 @@ Initially appearing to be poisoned by a doctored glass of Firewhisky, magical ex
 Evidence and documents available during the investigation:
 
 - **[Daily Prophet Newspaper](clues/daily_prophet_newspaper.pdf)** - Report on surprise audits at the Ministry
+- **[Investigation Note](clues/augustus_investigation_note.pdf)** - Note found on Augustus's body
 
 ## Characters
 
